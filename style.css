@@ -1,0 +1,42 @@
+
+#reg_section{
+    display: flex;
+    
+}
+.left{
+    width:50%;
+    background-color:lightgray;
+    text-align: center;
+    display: flex;
+}
+
+
+.left img{ 
+    margin:auto; 
+    width:400px;
+}
+.right{
+    width: 50%;
+    display: flex;
+}
+.right form{
+    margin: auto auto auto 30px;
+}
+.btn{
+    background-color: rgb(51, 104, 228);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10%;
+    color: white;
+}
+input{
+    margin: 10px;
+}
+.inp{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background:rgb(217, 217, 217);
+    opacity: 6px;
+    border: none;
+}
+
